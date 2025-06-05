@@ -151,7 +151,3 @@ def to_dict(self):
 ![image](https://github.com/user-attachments/assets/e26b6702-ad5d-4bd6-9c06-03990d178d35)
 
 ![image](https://github.com/user-attachments/assets/4bc90acb-95fd-4e6b-92e8-0f28ac98183b)
-
-```
-
-
