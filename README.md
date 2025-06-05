@@ -143,7 +143,7 @@ def to_dict(self):
         "reference_links": self.reference_links,
         "cpe_23_deprecation_date": self.cpe_23_deprecation_date,
     }
-
+```
 # OUTPUT
 
 ![image](https://github.com/user-attachments/assets/9f9c557c-cf45-4b38-8708-fa7147ca62b9)
